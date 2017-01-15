@@ -1,2 +1,4 @@
 # PrimeiroRepositorio
-Criando primeiro repositório
+Criando o primeiro repositório no GitHub
+
+HelloWord em java no netbeans :)
